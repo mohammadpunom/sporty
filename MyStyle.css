@@ -1,0 +1,166 @@
+body
+{
+    /* background-color: #e3f2fd; */
+    font-family: Ubuntu;
+
+}
+.logo
+{
+    width: 35%;
+    padding: 0 0 0 0;
+}
+.navbar
+{
+    /* padding: 5 0 0 0; */
+        background-color: rgba(127, 219, 255, 0.671);
+
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+.navbar-brand
+{
+    font-size: .8rem;
+    font-weight: lighter;
+    font-style: italic;
+}
+.nav-item
+{
+    padding: 5px 50px;
+    /* transform: rotate(-8deg); */
+    font-size: 1.2rem;
+}
+
+.container-fluid
+{
+    padding: 0 0 0 0;
+}
+
+.form-inline
+{
+   
+    color: #032542;
+    padding: 0% 10% 0% 10%;
+}
+
+
+.home-image
+{
+    width: 100%;
+    /* background-color: rgba(127, 219, 255, 0.671); */
+    border-radius: 10%;
+    position: absolute;
+    height: auto;
+
+    /* padding: 0 10 0 0; */
+    /* padding: 10% 20%; */
+ 
+}
+
+.placement
+{
+    padding: 0% 20%;
+    /* transform: rotate(-5deg); */
+}
+#feature
+{
+    /* background-color: rgba(127, 219, 255, 0.671); */
+    /* background-color: rgba(226, 226, 45, 0.37); */
+    background-color: rgba(127, 219, 255, 0.671);
+    position: relative;
+  
+    padding: 10% 10%;
+    /* background-color: #f7aff7; */
+}
+
+
+
+.feature-box
+{
+    
+    padding: 1% 5%;
+    text-align: center;
+    font-weight: normal;
+    font-size: 1rem;
+  
+    
+}
+span
+{
+    padding: 10px 10px;
+}
+
+h4{
+    font-family: Pacifico;
+    /* font-weight: bold; */
+   
+}
+
+h3:hover
+{
+    color: blue;
+}
+p{
+    color: #888282;
+}
+
+h1{
+    font-family: Fredericka the Great;
+    font-size: 2rem;
+    font-weight: bold;
+    /* transform: rotate(-15deg); */
+    text-align: center;
+    width: 90%;
+    color: rgb(255, 0, 0);
+    padding: 5% 5%;
+
+}
+.icon
+{
+    color: rgba(0, 0, 255, 0.644);
+    margin: 1rem;
+}
+
+.icon:hover
+{
+    color: blue;
+}
+#promo
+{
+
+}
+h2
+{
+    font-family: Orbitron;
+    /* margin: 20px 20px 40px; */
+    text-align: center;
+    font-weight: lighter;
+    color:#032542;
+    font-size: 3vw;
+    padding: 5% 0%;
+}
+
+.add-text
+{
+    padding: 7% 15%;
+    text-align: center;
+    font-size: 5rem;
+    font-family: Fredericka the Great;
+    /* transform: rotate(40deg); */
+    line-height: 2;
+}
+
+#HarrerSection
+{
+    padding: 5%;
+    
+}
+.card-padding
+{
+    text-align: center;
+}
+
+.h5
+{
+    color:#032542;
+    font-weight: bolder;
+}
